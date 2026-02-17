@@ -140,5 +140,5 @@ University of South Florida
 
 # 📫 Connect
 
-- LinkedIn: [(add link)](https://www.linkedin.com/in/kota-siri/)
+- LinkedIn: [(kota-siri)](https://www.linkedin.com/in/kota-siri/)
 - Email: sirichandanakota12@gmail.com
