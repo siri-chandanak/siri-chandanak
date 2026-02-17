@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Siri Chandana</h1>
-<h3 align="center">Software Engineer • DevOps Engineer • SRE • Backend Systems Builder</h3>
+<h3 align="center">Backend Engineer | DevOps • Spring Boot • Microservices • Cloud Infrastructure </h3>
 
 <p align="center">
-Building scalable distributed systems | Cloud-native platforms | Production-grade APIs
+Building scalable backend systems | Microservices | Cloud-native deployments
 </p>
 
 ---
 
 # 🚀 About Me
 
-I’m a Software Engineer with strong experience across Backend Engineering, DevOps, and Site Reliability.
+I’m a Backend Engineer with strong DevOps experience, focused on building and operating scalable microservices in cloud-native environments.
 
 I design and build:
 - Scalable microservices
@@ -26,15 +26,58 @@ Currently working in production environments where I:
 
 ---
 
-# 🧠 Engineering Focus
+# 🔭 Currently Building & Learning
 
-- Distributed Systems
-- Microservices Architecture
-- Platform Engineering
-- Reliability Engineering
-- Cloud Infrastructure
-- Backend API Development
-- Automation at scale
+- Scalable Spring Boot microservices
+- Performance optimization for high-traffic APIs
+- Distributed system design patterns
+- Event-driven architecture using Kafka
+- Cloud-native backend deployment on AWS
+
+---
+
+# 🧠 Backend Engineering Focus
+
+I specialize in designing and building scalable backend systems that power high-performance applications.
+
+Core strengths:
+- Designing REST APIs and microservices using Spring Boot
+- Building distributed systems with strong reliability
+- Optimizing performance and database queries
+- Implementing authentication, RBAC, and secure service communication
+- Deploying backend services on cloud-native infrastructure
+
+I enjoy solving backend problems related to:
+- API latency & throughput
+- Database performance
+- Service scalability
+- Fault tolerance
+- System reliability
+
+---
+
+# ⚙️ Backend + DevOps Strength
+
+I not only build backend services — I also deploy, scale, and operate them in production environments.
+
+This allows me to:
+- Design services with scalability in mind
+- Build CI/CD pipelines for reliable releases
+- Run backend systems on AWS + Kubernetes
+- Improve performance, monitoring, and uptime
+- Own services end-to-end from development to deployment
+
+---
+
+# 🏗️ System Design Areas
+
+- Microservices architecture
+- Event-driven systems
+- API scalability
+- Container orchestration
+- CI/CD platform engineering
+- Observability pipelines
+- High-availability cloud infrastructure
 
 ---
 
@@ -65,13 +108,14 @@ PostgreSQL • MySQL • MongoDB • Redis • DynamoDB
 
 # 💼 Experience Snapshot
 
-## 🏢 Deloitte — Software Engineer / DevOps / SRE
-- Built production-grade backend microservices using Spring Boot
-- Operated AWS + Kubernetes infrastructure
-- Designed CI/CD pipelines for large-scale deployments
-- Implemented observability across distributed systems
-- Automated infra provisioning using Terraform
-- Integrated AI APIs into backend systems
+## 🏢 Deloitte — Backend Engineer / Platform Engineer
+
+- Designed and developed scalable Spring Boot microservices handling high-volume API traffic
+- Built secure REST APIs with authentication, RBAC, and service-to-service communication
+- Optimized backend performance by improving database queries and response times
+- Integrated AI-powered APIs into backend services
+- Deployed services on AWS + Kubernetes infrastructure
+- Implemented CI/CD pipelines to support fast, reliable releases
 
 Impact:
 - Faster deployments
@@ -119,7 +163,6 @@ Impact:
 - Multiple responsive frontend applications
 - Focus on UI/UX and performance
 
-These projects demonstrate real coding practice across Python, frontend, and automation tooling. :contentReference[oaicite:1]{index=1}  
 
 ---
 
@@ -135,6 +178,18 @@ These projects demonstrate real coding practice across Python, frontend, and aut
 
 M.S. Computer Science  
 University of South Florida
+
+---
+
+# 🎯 Career Direction
+
+Interested in roles involving:
+
+- Backend Engineering
+- Microservices & Distributed Systems
+- Cloud-Native Application Development
+- DevOps-driven backend platforms
+- High-scale API development
 
 ---
 
