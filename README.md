@@ -2,7 +2,7 @@
 <h3 align="center">Backend Engineer | DevOps • Spring Boot • Microservices • Cloud Infrastructure </h3>
 
 <p align="center">
-Building scalable backend systems | Microservices | Cloud-native deployments
+  Designing scalable backend systems | Microservices | Cloud-native production platforms
 </p>
 
 ---
@@ -11,7 +11,7 @@ Building scalable backend systems | Microservices | Cloud-native deployments
 
 I’m a Backend Engineer with strong DevOps experience, focused on building and operating scalable microservices in cloud-native environments.
 
-I design and build:
+I design, build, and operate:
 - Scalable microservices
 - Cloud-native systems on AWS + Kubernetes
 - High-performance APIs
@@ -33,6 +33,17 @@ Currently working in production environments where I:
 - Distributed system design patterns
 - Event-driven architecture using Kafka
 - Cloud-native backend deployment on AWS
+
+---
+
+# 📈 Backend Strength Areas
+
+- API design & development
+- Microservices architecture
+- Database optimization
+- Authentication & security
+- Performance tuning
+- Cloud-native deployment
 
 ---
 
@@ -108,7 +119,7 @@ PostgreSQL • MySQL • MongoDB • Redis • DynamoDB
 
 # 💼 Experience Snapshot
 
-## 🏢 Deloitte — Backend Engineer / Platform Engineer
+## 🏢 Backend Engineer / Platform Engineer
 
 - Designed and developed scalable Spring Boot microservices handling high-volume API traffic
 - Built secure REST APIs with authentication, RBAC, and service-to-service communication
@@ -116,6 +127,8 @@ PostgreSQL • MySQL • MongoDB • Redis • DynamoDB
 - Integrated AI-powered APIs into backend services
 - Deployed services on AWS + Kubernetes infrastructure
 - Implemented CI/CD pipelines to support fast, reliable releases
+- Supported backend services running in high-availability production environments
+
 
 Impact:
 - Faster deployments
