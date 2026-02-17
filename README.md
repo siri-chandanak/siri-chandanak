@@ -80,14 +80,6 @@ Impact:
 
 ---
 
-## 🏢 Cognizant — Software Engineer / DevOps
-- Developed enterprise backend services
-- Built Jenkins CI/CD pipelines
-- Managed AWS infrastructure
-- Improved performance & security
-
----
-
 # 📂 Featured Engineering Projects
 
 ## 🔹 Microservices Order Processing Platform
