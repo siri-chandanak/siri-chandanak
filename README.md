@@ -123,18 +123,6 @@ These projects demonstrate real coding practice across Python, frontend, and aut
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=siri-chandanak&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siri-chandanak&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 # 🏆 Certifications
 
 - Certified Kubernetes Administrator (CKA)
@@ -152,5 +140,5 @@ University of South Florida
 
 # 📫 Connect
 
-- LinkedIn: (add link)
-- Email: (add email)
+- LinkedIn: [(add link)](https://www.linkedin.com/in/kota-siri/)
+- Email: sirichandanakota12@gmail.com
