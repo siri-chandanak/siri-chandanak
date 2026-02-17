@@ -1,127 +1,164 @@
-# 👋 Hi, I'm Siri Chandana Kota
+<h1 align="center">Hi 👋, I'm Siri Chandana</h1>
+<h3 align="center">Software Engineer • DevOps Engineer • SRE • Backend Systems Builder</h3>
 
-💻 DevOps Engineer | Platform Engineer | Backend Engineer | SRE  
-☁️ AWS • Kubernetes • Terraform • Java • Spring Boot • Microservices  
-📍 Tampa, FL  
-
----
-
-## 🚀 About Me
-
-I’m a Software & DevOps Engineer with 4+ years of experience building scalable backend systems and operating cloud platforms in production environments.
-
-I specialize in:
-- Designing microservices using Java & Spring Boot
-- Running large-scale AWS + Kubernetes infrastructure
-- Automating CI/CD pipelines and infrastructure
-- Building reliable, high-availability distributed systems
-- Integrating AI-powered APIs into real-world applications
-
-Currently working at **Deloitte** building cloud-native backend systems and operating production platforms.
+<p align="center">
+Building scalable distributed systems | Cloud-native platforms | Production-grade APIs
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+# 🚀 About Me
 
-### 💻 Backend
-- Java, Spring Boot, Hibernate, Node.js, Express.js
-- REST APIs, Microservices, JWT, RBAC
+I’m a Software Engineer with strong experience across Backend Engineering, DevOps, and Site Reliability.
 
-### ☁️ Cloud & DevOps
-- AWS (EC2, S3, RDS, Lambda, IAM, EKS)
-- Azure, GCP
-- Docker, Kubernetes, Helm
-- Terraform, CloudFormation
-- GitHub Actions, Jenkins, Azure DevOps
+I design and build:
+- Scalable microservices
+- Cloud-native systems on AWS + Kubernetes
+- High-performance APIs
+- Automation-driven infrastructure
+- Production-grade CI/CD platforms
 
-### 📊 Observability & Reliability
-- Prometheus, Grafana
-- ELK Stack
-- CloudWatch
-- Incident Response, RCA, Capacity Planning
+Currently working in production environments where I:
+- Run large-scale systems
+- Improve reliability & performance
+- Build cloud-native backend services
+- Automate infrastructure and deployments
 
-### 🧠 AI & Data
-- OpenAI API
-- LangChain, HuggingFace
-- LlamaIndex
+---
+
+# 🧠 Engineering Focus
+
+- Distributed Systems
+- Microservices Architecture
+- Platform Engineering
+- Reliability Engineering
+- Cloud Infrastructure
+- Backend API Development
+- Automation at scale
+
+---
+
+# 🛠️ Tech Stack
+
+### 💻 Languages
+Java • Python • JavaScript • TypeScript • Go • Bash • SQL
+
+### ⚙️ Backend
+Spring Boot • Node.js • Express • REST APIs • Microservices • JWT • RBAC
+
+### ☁️ Cloud
+AWS (EKS, EC2, S3, RDS, Lambda, IAM)  
+Azure • GCP  
+
+### 🐳 DevOps
+Docker • Kubernetes • Helm  
+Terraform • CloudFormation  
+GitHub Actions • Jenkins • GitOps  
+
+### 📊 Observability
+Prometheus • Grafana • ELK • CloudWatch
 
 ### 🗄️ Databases
-- PostgreSQL, MySQL, MongoDB, Redis, DynamoDB
+PostgreSQL • MySQL • MongoDB • Redis • DynamoDB
 
 ---
 
-## 💼 Experience
+# 💼 Experience Snapshot
 
-### 🏢 Deloitte — Software Engineer / DevOps Engineer (2024–Present)
-- Built scalable Spring Boot microservices handling high-volume API traffic
-- Automated CI/CD pipelines using Jenkins, Maven, Docker, and AWS
-- Operated AWS + EKS production environments
-- Implemented observability using Prometheus, Grafana, CloudWatch
-- Integrated AI features using OpenAI APIs
-- Designed secure authentication using Spring Security & RBAC
+## 🏢 Deloitte — Software Engineer / DevOps / SRE
+- Built production-grade backend microservices using Spring Boot
+- Operated AWS + Kubernetes infrastructure
+- Designed CI/CD pipelines for large-scale deployments
+- Implemented observability across distributed systems
+- Automated infra provisioning using Terraform
+- Integrated AI APIs into backend systems
 
-### 🏢 Cognizant — Software Engineer / DevOps (2021–2022)
-- Developed enterprise backend services using Java & REST APIs
-- Built Jenkins pipelines for automated deployments
-- Managed AWS infrastructure & Linux environments
-- Implemented blue-green and canary deployments
+Impact:
+- Faster deployments
+- Reduced failures
+- Improved system reliability
 
 ---
 
-## 📂 Featured Projects
+## 🏢 Cognizant — Software Engineer / DevOps
+- Developed enterprise backend services
+- Built Jenkins CI/CD pipelines
+- Managed AWS infrastructure
+- Improved performance & security
 
-### 🔹 Microservices-Based Order Processing Platform
-- Spring Boot services for orders, inventory & payments
+---
+
+# 📂 Featured Engineering Projects
+
+## 🔹 Microservices Order Processing Platform
+- Distributed architecture using Spring Boot
+- Payment + inventory + order services
 - Kafka-based async communication
-- JWT authentication & RBAC
-- Dockerized & deployed on AWS
+- Docker + AWS deployment
 
-### 🔹 Kubernetes Observability Platform
-- Centralized metrics using Prometheus & Grafana
-- Log monitoring with ELK stack
-- Faster incident detection & debugging
+## 🔹 Kubernetes Observability Platform
+- Prometheus + Grafana monitoring stack
+- Centralized logging via ELK
+- Early incident detection
 
-### 🔹 GitOps Continuous Deployment (FluxCD)
-- Git-driven automated deployments
-- Helm-based environment management
-- Eliminated manual release processes
-
-### 🔹 Online Banking System
-- Secure fund transfer & account management
-- Spring Boot + MySQL backend
-- REST APIs + authentication
-
-### 🔹 E-commerce Full Stack Application
-- Razor Pages + .NET
-- Shopping cart + order processing
-- SQL Server database
+## 🔹 GitOps Continuous Deployment System
+- FluxCD + Helm
+- Git-driven releases
+- Zero manual deployments
 
 ---
 
-## 📊 GitHub Stats
+# 🧪 Hands-On GitHub Projects
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=siri-chandanak&show_icons=true&theme=tokyonight)
+### 🎬 Video & Audio Downloader
+- Python-based automation tool
+- Handles media extraction workflows
+- CLI-based utility
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=siri-chandanak&layout=compact&theme=tokyonight)
+### 🔳 QR Code Generator
+- Lightweight utility for dynamic QR generation
+- Focus on usability + speed
+
+### 💰 Expense Manager
+- Web-based tracking application
+- Data storage + UI integration
+
+### 🌐 React & Web Apps
+- Multiple responsive frontend applications
+- Focus on UI/UX and performance
+
+These projects demonstrate real coding practice across Python, frontend, and automation tooling. :contentReference[oaicite:1]{index=1}  
 
 ---
 
-## 📜 Certifications
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=siri-chandanak&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siri-chandanak&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+# 🏆 Certifications
 
 - Certified Kubernetes Administrator (CKA)
 - AWS DevOps Engineer – Professional
-- AWS Machine Learning Engineer – Associate
+- AWS ML Engineer – Associate
 
 ---
 
-## 🎓 Education
+# 🎓 Education
 
-- M.S. Computer Science — University of South Florida (2024)
-- B.Tech. Computer Science — KKR & KSR Institute (2021)
+M.S. Computer Science  
+University of South Florida
 
 ---
 
-## 📫 Connect With Me
+# 📫 Connect
 
-- 📧 Email: sirichandanakota12@gmail.com
-- 💼 LinkedIn: (add your LinkedIn link here)
+- LinkedIn: (add link)
+- Email: (add email)
