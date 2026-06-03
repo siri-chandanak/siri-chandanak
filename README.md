@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Siri Chandana</h1>
-<h3 align="center">Backend Engineer | DevOps • Spring Boot • Microservices • Cloud Infrastructure </h3>
+<h3 align="center">Backend Engineer | DevOps • Microservices • Cloud Infrastructure </h3>
 
 <p align="center">
   Designing scalable backend systems | Microservices | Cloud-native production platforms
