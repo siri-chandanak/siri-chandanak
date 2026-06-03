@@ -95,10 +95,7 @@ This allows me to:
 # 🛠️ Tech Stack
 
 ### 💻 Languages
-Java • Python • JavaScript • TypeScript • Go • Bash • SQL
-
-### ⚙️ Backend
-Spring Boot • Node.js • Express • REST APIs • Microservices • JWT • RBAC
+C# • Java • Python • SQL
 
 ### ☁️ Cloud
 AWS (EKS, EC2, S3, RDS, Lambda, IAM)  
