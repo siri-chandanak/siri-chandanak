@@ -9,20 +9,11 @@
 
 # 🚀 About Me
 
-I’m a Backend Engineer with strong DevOps experience, focused on building and operating scalable microservices in cloud-native environments.
+I'm a Software Engineer with approximately **5 years of professional experience**, focused on backend development, cloud-native applications, DevOps, and infrastructure automation.
 
-I design, build, and operate:
-- Scalable microservices
-- Cloud-native systems on AWS + Kubernetes
-- High-performance APIs
-- Automation-driven infrastructure
-- Production-grade CI/CD platforms
+My primary interests are building scalable backend services, automating application deployments, and improving system reliability. I enjoy working across the software lifecycle, from API development and containerization to cloud infrastructure and monitoring.
 
-Currently working in production environments where I:
-- Run large-scale systems
-- Improve reliability & performance
-- Build cloud-native backend services
-- Automate infrastructure and deployments
+I'm also actively exploring **AI Engineering, Generative AI, RAG, and Machine Learning**, combining software engineering fundamentals with AI-powered applications.
 
 ---
 
