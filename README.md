@@ -26,184 +26,107 @@ Currently working in production environments where I:
 
 ---
 
-# 🔭 Currently Building & Learning
+## 🛠️ Technical Skills
 
-- Scalable Spring Boot microservices
-- Performance optimization for high-traffic APIs
-- Distributed system design patterns
-- Event-driven architecture using Kafka
-- Cloud-native backend deployment on AWS
-
----
-
-# 📈 Backend Strength Areas
-
-- API design & development
-- Microservices architecture
-- Database optimization
-- Authentication & security
-- Performance tuning
-- Cloud-native deployment
+| Category | Technologies |
+|---|---|
+| **Languages** | Java, Python, SQL, C# |
+| **Backend Development** | Spring Boot, REST APIs, Microservices, FastAPI |
+| **Cloud Platforms** | AWS, Azure, GCP |
+| **DevOps & Infrastructure** | Kubernetes, Docker, Terraform, Helm, Jenkins, GitHub Actions |
+| **CI/CD & GitOps** | CI/CD Pipelines, Argo CD, FluxCD |
+| **Databases** | PostgreSQL, MySQL, MongoDB, Redis |
+| **Messaging & Distributed Systems** | Apache Kafka, Event-Driven Architecture |
+| **Monitoring & Observability** | Prometheus, Grafana, ELK, CloudWatch |
+| **AI & Data** | Machine Learning, Generative AI, RAG, Pandas, NumPy, Scikit-learn |
 
 ---
 
-# 🧠 Backend Engineering Focus
+## 🚀 Featured Projects
 
-I specialize in designing and building scalable backend systems that power high-performance applications.
+### ☸️ Kubernetes & Container Orchestration
 
-Core strengths:
-- Designing REST APIs and microservices using Spring Boot
-- Building distributed systems with strong reliability
-- Optimizing performance and database queries
-- Implementing authentication, RBAC, and secure service communication
-- Deploying backend services on cloud-native infrastructure
+[View Repository](https://github.com/siri-chandanak/Kubernetes)
 
-I enjoy solving backend problems related to:
-- API latency & throughput
-- Database performance
-- Service scalability
-- Fault tolerance
-- System reliability
+A collection of Kubernetes configurations and hands-on examples covering:
 
----
+- Deployments, StatefulSets, and DaemonSets
+- Persistent storage and volume management
+- Node scheduling, taints, and tolerations
+- Container orchestration concepts
 
-# ⚙️ Backend + DevOps Strength
+### 🐳 Docker & Application Containerization
 
-I not only build backend services — I also deploy, scale, and operate them in production environments.
+[View Repository](https://github.com/siri-chandanak/docker)
 
-This allows me to:
-- Design services with scalability in mind
-- Build CI/CD pipelines for reliable releases
-- Run backend systems on AWS + Kubernetes
-- Improve performance, monitoring, and uptime
-- Own services end-to-end from development to deployment
+Containerization examples and application deployment configurations involving Python and .NET, including CI/CD configuration examples.
 
----
+### ☁️ AWS Cloud Infrastructure
 
-# 🏗️ System Design Areas
+[View Repository](https://github.com/siri-chandanak/aws)
 
-- Microservices architecture
-- Event-driven systems
-- API scalability
-- Container orchestration
-- CI/CD platform engineering
-- Observability pipelines
-- High-availability cloud infrastructure
+Cloud development and infrastructure examples covering AWS services and tools, including VPC, CloudFront, CDK, and Step Functions.
 
----
+### 🤖 AI Text Detection
 
-# 🛠️ Tech Stack
+[View Repository](https://github.com/siri-chandanak/ai-text-detection)
 
-### 💻 Languages
-C# • Java • Python • SQL
+Exploration of statistical, linguistic, and machine learning approaches for analyzing and detecting AI-generated text.
 
-### ☁️ Cloud
-AWS (EKS, EC2, S3, RDS, Lambda, IAM)  
-Azure • GCP  
+### 📊 Predictive Analytics — Metro Dataset
 
-### 🐳 DevOps
-Docker • Kubernetes • Helm  
-Terraform • CloudFormation  
-GitHub Actions • Jenkins • GitOps  
+[View Repository](https://github.com/siri-chandanak/metro_dataset_tasks)
 
-### 📊 Observability
-Prometheus • Grafana • ELK • CloudWatch
+Machine learning exercises involving predictive maintenance, classification, and regression using an industrial dataset.
 
-### 🗄️ Databases
-PostgreSQL • MySQL • MongoDB • Redis • DynamoDB
+### 🧠 Machine Learning Journey
+
+[View Repository](https://github.com/siri-chandanak/machine-learning-journey)
+
+My ongoing learning repository covering machine learning fundamentals, implementation exercises, and practical experimentation.
 
 ---
 
-# 💼 Experience Snapshot
+## 🎯 Current Focus
 
-## 🏢 Backend Engineer / Platform Engineer
-
-- Designed and developed scalable Spring Boot microservices handling high-volume API traffic
-- Built secure REST APIs with authentication, RBAC, and service-to-service communication
-- Optimized backend performance by improving database queries and response times
-- Integrated AI-powered APIs into backend services
-- Deployed services on AWS + Kubernetes infrastructure
-- Implemented CI/CD pipelines to support fast, reliable releases
-- Supported backend services running in high-availability production environments
-
-
-Impact:
-- Faster deployments
-- Reduced failures
-- Improved system reliability
+- **Backend Engineering:** Java, Python, Spring Boot, REST APIs, and microservices
+- **Platform & DevOps:** Kubernetes, Docker, infrastructure automation, and CI/CD
+- **Cloud Engineering:** Building and deploying applications on AWS and Azure
+- **AI Engineering:** LLM applications, RAG pipelines, vector databases, and API integration
+- **System Design:** Distributed systems, event-driven architectures, scalability, and reliability
 
 ---
 
-# 📂 Featured Engineering Projects
-
-## 🔹 Microservices Order Processing Platform
-- Distributed architecture using Spring Boot
-- Payment + inventory + order services
-- Kafka-based async communication
-- Docker + AWS deployment
-
-## 🔹 Kubernetes Observability Platform
-- Prometheus + Grafana monitoring stack
-- Centralized logging via ELK
-- Early incident detection
-
-## 🔹 GitOps Continuous Deployment System
-- FluxCD + Helm
-- Git-driven releases
-- Zero manual deployments
-
----
-
-# 🧪 Hands-On GitHub Projects
-
-### 🎬 Video & Audio Downloader
-- Python-based automation tool
-- Handles media extraction workflows
-- CLI-based utility
-
-### 🔳 QR Code Generator
-- Lightweight utility for dynamic QR generation
-- Focus on usability + speed
-
-### 💰 Expense Manager
-- Web-based tracking application
-- Data storage + UI integration
-
-### 🌐 React & Web Apps
-- Multiple responsive frontend applications
-- Focus on UI/UX and performance
-
-
----
-
-# 🏆 Certifications
+## 🏆 Certifications
 
 - Certified Kubernetes Administrator (CKA)
-- AWS DevOps Engineer – Professional
-- AWS ML Engineer – Associate
+- AWS Certified DevOps Engineer – Professional
+- AWS Certified Machine Learning Engineer – Associate
 
----
+## 🎓 Education
 
-# 🎓 Education
+**Master of Science in Computer Science**
 
-M.S. Computer Science  
 University of South Florida
 
 ---
 
-# 🎯 Career Direction
+## 💼 Career Interests
 
-Interested in roles involving:
+I'm interested in full-time opportunities involving:
 
-- Backend Engineering
-- Microservices & Distributed Systems
-- Cloud-Native Application Development
-- DevOps-driven backend platforms
-- High-scale API development
+- Backend Software Engineering — Java / Python
+- Cloud & Platform Engineering
+- DevOps Engineering / Site Reliability Engineering
+- AI Engineering / AI Platform Engineering
+- Data Engineering
 
 ---
 
-# 📫 Connect
+## 📫 Connect With Me
 
-- LinkedIn: [(kota-siri)](https://www.linkedin.com/in/kota-siri/)
-- Email: sirichandanakota12@gmail.com
+**LinkedIn:** [Siri Chandana Kota](https://www.linkedin.com/in/siri-chandana-kota)
+
+**GitHub:** [siri-chandanak](https://github.com/siri-chandanak)
+
+I'm interested in connecting with software engineers, hiring managers, recruiters, and teams working on cloud-native systems, backend platforms, and AI applications.
